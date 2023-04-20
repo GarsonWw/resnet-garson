@@ -3,6 +3,8 @@
   ├── model.py: ResNet模型搭建
   ├── train.py: 训练脚本
   ├── predict.py: 单张图像预测脚本
+  ├── resNet50.pth: ResNet模型结果
+  ├── class_indices.json: 类别下标
   └── batch_predict.py: 批量图像预测脚本
 ```
 ## 使用自定义数据集需要修改以下代码：
